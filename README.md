@@ -5,4 +5,5 @@
 <p align="center">
   <img src="assets/20240707_Badge_ONE_PP.png" alt="Principiante en Programación" width="100" height="100"/>
   <img src="assets/20240925_Badge_ONE_JOO.png" alt="Java Orientado a Objetos" width="100" height="100"/>
+  <img src="assets/20241031_Badge_ONE_SF_LA.png" alt="Challenge LiterAlura" width="100" height="100"/>
 </p>
